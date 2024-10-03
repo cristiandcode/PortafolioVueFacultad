@@ -35,7 +35,7 @@
 
         <v-card-text class="text-white">
           @ {{ new Date().getFullYear() }} —
-          <strong>AAE IdeaPro All Rights Reserved</strong>
+          <strong>Diseñado por el Programador Diaz Cristian</strong>
         </v-card-text>
       </v-card>
     </v-footer>

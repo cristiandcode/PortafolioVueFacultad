@@ -1,18 +1,18 @@
 <template>
     <v-app-bar app color="black" dark flat class="px-12" >
       <v-btn >
-        <v-icon color="yellow" left class="mr-2">fas fa-signature</v-icon> AHLAN
+        <v-icon color="yellow" left class="mr-2">fas fa-signature</v-icon> Cristian Programmer
       </v-btn>
       
   
       <v-spacer></v-spacer>
-      <v-btn text @click="scroll('home')" class="text-yellow">Home</v-btn>
-      <v-btn text @click="scroll('about')"  >About</v-btn>
-      <v-btn text @click="scroll('portfolio')"  >Portfolio</v-btn>
-      <v-btn text @click="scroll('services')" > Services</v-btn>
-      <v-btn text @click="scroll('page')"  > Page</v-btn>
-      <v-btn text @click="scroll('biog')"  > Biog</v-btn>
-      <v-btn text @click="scroll('contact')"  > Contact</v-btn>
+      <v-btn text @click="scroll('home')" class="text-yellow">Inicio</v-btn>
+      <v-btn text @click="scroll('about')"  >Acerda de mi</v-btn>
+      <v-btn text @click="scroll('portfolio')"  >Portafolio</v-btn>
+      <v-btn text @click="scroll('services')" > Servicios</v-btn>
+      <v-btn text @click="scroll('page')"  > Pagina</v-btn>
+      <v-btn text @click="scroll('biog')"  > Biografia</v-btn>
+      <v-btn text @click="scroll('contact')"  > Contacto</v-btn>
     </v-app-bar>
   </template>
   
