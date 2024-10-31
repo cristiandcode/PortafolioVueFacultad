@@ -161,7 +161,7 @@
       </v-col>
       <v-col cols="12" sm="12">
         <div class="d-flex justify-center mb-6">
-          <v-btn color="#FBDF7E" class="mt-4">Load More</v-btn>
+          <v-btn color="#FBDF7E" class="mt-4">Cargar mas</v-btn>
         </div>
       </v-col>
       <v-col cols="12" id="page">
